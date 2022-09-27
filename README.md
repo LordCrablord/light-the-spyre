@@ -4,4 +4,4 @@ The goal is to light all spires on the map
 
 Click Light the Spyre.exe to start playing
 
-NOTE: this was my first project, where i used git, which is why i didn't upload any source for this project, and the reason why the build is not in release panel :/
+NOTE: this was my first project, where i tried to use git, which is why i didn't upload any source for this project, and the reason why the build is not in release panel :/
